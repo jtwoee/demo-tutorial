@@ -1,0 +1,16 @@
+C:\Users\lijunfe\Documents\InstantDemo\Projects\doc-repo\demo.swf
+Build 1 successfully completed
+Created at: Wed Aug 22 22:52:17 2018
+Flash player required: v6.0 or above
+Size: 3521 KB
+Total frames in main movie: 2720
+Playback frame rate: 20
+Approximate playback time: 136 seconds
+
+Annotated text transcript:
+
+
+
+
+
+

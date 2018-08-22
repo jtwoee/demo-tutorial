@@ -1,0 +1,8 @@
+C:\Users\lijunfe\Documents\InstantDemo\Projects\demo1.swf
+Build 2 successfully completed
+Created at: Wed Aug 22 15:05:46 2018
+Flash player required: v6.0 or above
+Size: 387 KB
+Total frames in main movie: 620
+Playback frame rate: 20
+Approximate playback time: 31 seconds
